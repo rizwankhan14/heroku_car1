@@ -1,0 +1,14 @@
+{
+  "name": "heroku_car1",
+  "version": "1.0.0",
+  "description": "herokujson-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "heroku-server"
+  },
+  "author": "heroku",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
